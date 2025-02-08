@@ -1,0 +1,11 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+TC001,Responsive Testing on Chrome desktop,"Open the website on Chrome, inspect responsiveness.",Website should display correctly on Chrome desktop.,Displayed correctly.,Passed,Low,N/A,Responsive on all desktop resolutions.
+TC002,Integration Testing for Product Page,Fetch products from API and verify display.,Product data should fetch and display correctly.,Fetched and displayed correctly.,Passed,Medium,N/A,API functioning as expected.
+TC003,Dynamic Routing for Product Details,Navigate from product list to product details.,Product details page should load with accurate data.,Loaded successfully with correct data.,Passed,Medium,N/A,Dynamic routing functioning as intended.
+TC004,Cart Functionality Testing,Add/remove products and verify price updates.,Cart should update dynamically with accurate total price.,Cart updates dynamically.,Passed,High,N/A,Critical feature works as expected.
+TC005,Search Bar Functionality,Search by name and tags; verify results.,Search results should match query parameters.,Results matched the query.,Passed,Medium,N/A,Search functionality is robust.
+TC006,Filter by Price Range,Apply a price filter and check results.,Results should narrow based on selected range.,Filter works as expected.,Passed,Low,N/A,No issues found.
+TC007,Shipment Data Integration,Enter shipment details and verify tracking.,Shipment and tracking data should be saved and retrieved correctly.,Data saved and retrieved successfully.,Passed,High,N/A,Critical feature works correctly.
+TC008,Order Data API Testing,Test order creation and retrieval.,Order data should save and fetch correctly.,Order data APIs function as intended.,Passed,High,N/A,Essential API functioning well.
+TC009,Error Handling for Invalid Data,Simulate invalid data scenarios.,Display user-friendly error messages.,Error messages displayed correctly.,Passed,Medium,N/A,Handled errors gracefully.
+TC010,Admin Panel Testing,"Validate user additions, orders, and product data display.",Admin panel should function smoothly.,All functionalities work as expected.,Passed,High,N/A,Admin panel is operational.
